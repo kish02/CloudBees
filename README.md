@@ -14,6 +14,7 @@ Running the Application
 To start the server, execute the following command from the project root:
 
 .\gradlew.bat build
+
 In a separate terminal window, start your client:
 
 .\gradlew.bat bootRun
